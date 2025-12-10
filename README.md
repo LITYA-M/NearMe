@@ -25,7 +25,6 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-MAP.HTML
 
 <!DOCTYPE html>
 <html lang="en">
@@ -239,6 +238,7 @@ MERDIAN HOSPITAL .HTML
 
 
 ## OUTPUT
+<img width="1920" height="1080" alt="map" src="https://github.com/user-attachments/assets/61b4666c-1c00-46c3-9a63-b44f685674f5" />
 
 <img width="810" height="652" alt="Screenshot 2025-12-10 102844" src="https://github.com/user-attachments/assets/ced24250-3767-4fb1-a148-4fa04de4a2a8" />
 <img width="967" height="628" alt="Screenshot 2025-12-10 103022" src="https://github.com/user-attachments/assets/a88c6e6f-42b4-4831-b3d3-8a8d8c82bd25" />
