@@ -35,11 +35,6 @@ Execute the programs and publish them.
 <body>
 
 <h2>Clickable Map Locations</h2>
-
-
-<img src="map.png" alt="Chennai Map" usemap="#mymap" width="1520">
-
-
 <map name="mymap">
   
   <area shape="circle" coords="90,286,101" href="Kolathur.html" alt="Kolathur" target="_blank">
