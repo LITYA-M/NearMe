@@ -55,9 +55,7 @@ Execute the programs and publish them.
     </center>
 </body>
 </html>
-
-Annanagar.html:
-
+Annanagar.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -67,20 +65,15 @@ Annanagar.html:
 </head>
 <body bgcolor="pink">
     <h1>Annanagar, Chennai: What It Is Famous For</h1>
-
     <p>Anna Nagar, is a neighbourhood in the metropolitan city of Chennai, India.</p>
-
     <h2>The Main Attraction:</h2>
-
     <p>Anna Nagar Tower<br>
  Anna Nagar Tower Park
 The Anna Nagar Tower is a 138 feet (42 m) tall tower built for the 1968 World Trade Fair, by B. S. Abdur Rahman.<br> Its main entrance is from the 3rd Main Road and a back entrance from the 6th main road. <br>It is popular with morning walkers and joggers, and with families and young people in the evenings to play and relax.<br> For a nominal fee, one could walk to the top of the tower from where excellent views of the city could be seen.<br> Entry inside the tower has been stopped for the last few years due to safety concerns as there had been a few cases of suicide in the past.<br> The tower and park are now renovated and has a skating rink.<br> Currently, it boasts of a good turnout of children who come in for practising their skills on roller skates.<br> There is also a group of regulars who practice silambattam – an ancient Tamil martial art form – here.<br> From atop the tower one can have a panoramic views, and the rapidly changing skyline of the city can be appreciated..</p>
 
 </body>
 </html>
-
 koyambedu.html:
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -90,19 +83,12 @@ koyambedu.html:
 </head>
 <body bgcolor="sky blue" >
      <h1>koyambedu, Chennai: What It Is Famous For</h1>
-
     <p>Koyambedu is a neighbourhood in Chennai, India.<br> Situated in the western part of Chennai city, the Koyambedu area has become a major hub of activity in Chennai after the inauguration of the Koyambedu market in 1996</p>
-
     <h2>The Main Attraction:</h2>
-
-
     <p>koyambedu Market:<br>
         Koyambedu Wholesale Market Complex (KWMC) is one of Asia's largest perishable goods market complex located at Koyambedu, Chennai.<br> The market complex is spread over an area of 295 acres (1.19 km2).<br> Inaugurated in 1996, the complex consists of about 3,100 shops,[1] including more than 1,000 wholesale shops and 2,000 retail shops. Of these, 850 are fruit shops.</p>
-
-    
 </body>
 </html>
-
 Egmore.html:
 <!DOCTYPE html>
 <html lang="en">
@@ -113,17 +99,11 @@ Egmore.html:
 </head>
 <body bgcolor = "cyan">
      <h1>Egmore, Chennai: What It Is Famous For</h1>
-
     <p>Egmore (Ezhumbur) is a historic, central neighborhood in Chennai, India, known as a key residential, commercial, and transport hub, famous for its colonial architecture, Government Museum, Connemara Public Library, and the iconic Chennai Egmore Railway Station serving Southern Tamil Nadu routes, reflecting a mix of ancient heritage and modern urban life. </p>
-
     <h2>Key Aspects of Egmore:</h2>
-
     <p>Cultural & Heritage Sites: Features significant landmarks like the Government Museum (with bronze collections) and the ornate Connemara Public Library.<br>Transport Hub: Home to the Chennai Egmore Railway Station, a major terminus for trains towards southern Tamil Nadu, distinct from Chennai Central.<br>.</p>
-
 </body>
 </html>
-
-    
 Madhavaram garden.html:
 <!DOCTYPE html>
 <html lang="en">
@@ -134,19 +114,11 @@ Madhavaram garden.html:
 </head>
 <body bgcolor="green">
      <h1>Madhavaram Botanical garden, Chennai: What It Is Famous For</h1>
-
     <p>Madhavaram Botanical Garden is a botanical garden in Chennai, India, set up by the horticulture department of the Government of Tamil Nadu.<br> The garden, the second botanical garden in Chennai after the Semmozhi Poonga, is the largest botanical garden in the city. <br></p>
-
     <h2>The Main Attraction:</h2>
-
     <p>Madhavaram Botanical Garden's main attractions include diverse themed gardens (medicinal, fruit, ornamental, cactus), a glasshouse, a lake with coracle/pedal boat rides, a children's play area, fountains, and an open-air theatre, offering a green escape with plant diversity, recreation, and learning opportunities in Chennai.<br> Visitors enjoy walking paths, photography, picnicking, bird watching, and exploring unique features like a bog garden and planned birthstar garden.<br></p>
-   
 </body>
 </html>
-
-    
-
-
 Spectrum mall.html:
 <!DOCTYPE html>
 <html lang="en">
@@ -155,15 +127,10 @@ Spectrum mall.html:
     <title>Famous Spectrum Mall, Chennai</title>
 </head>
 <body bgcolor="orange">
-
     <h1>Spectrum The Grand Venus Mall: What It Is Famous For</h1>
-
     <p>Spectrum Mall is a prominent shopping and entertainment center located in Perambur, North Chennai.</p>
-
     <h2>The Main Attraction:</h2>
-
     <p>It is famously recognized as the <b>First Major Mall in North Chennai</b>.</p>
-
     <h3>Key Features of the Mall:</h3>
     <ul>
         <li>It is a popular destination for <strong>retail shopping</strong> and family entertainment.</li>
@@ -171,13 +138,10 @@ Spectrum mall.html:
         <li>It offers a spacious <strong>Food Court</strong> with multiple restaurant options.</li>
         <li>The mall is known for bringing a modern shopping experience to the North Chennai region.</li>
     </ul>
-
     <h2>Location and History:</h2>
     <p>The mall is situated on Paper Mills Road and was built on the site of the erstwhile <b>Venus Theatre</b>.</p>
-
     <hr>
     <p><i>Spectrum Mall serves as a central hub for shopping, food, and movies in Perambur.</i></p>
-
 </body>
 </html>
 
