@@ -25,8 +25,6 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-map 1.html
-
 map.html
 
 <!DOCTYPE html>
@@ -76,10 +74,11 @@ Annanagar.html:
 
     <h2>The Main Attraction:</h2>
 
-    <p>Anna Nagar Tower<br>
- Anna Nagar Tower Park
-The Anna Nagar Tower is a 138 feet (42 m) tall tower built for the 1968 World Trade Fair, by B. S. Abdur Rahman.<br> Its main entrance is from the 3rd Main Road and a back entrance from the 6th main road. <br>It is popular with morning walkers and joggers, and with families and young people in the evenings to play and relax.<br> For a nominal fee, one could walk to the top of the tower from where excellent views of the city could be seen.<br> Entry inside the tower has been stopped for the last few years due to safety concerns as there had been a few cases of suicide in the past.<br> The tower and park are now renovated and has a skating rink.<br> Currently, it boasts of a good turnout of children who come in for practising their skills on roller skates.<br> There is also a group of regulars who practice silambattam – an ancient Tamil martial art form – here.<br> From atop the tower one can have a panoramic views, and the rapidly changing skyline of the city can be appreciated..</p>
+    <p>Annanagar tower park<br>
+         Anna Nagar Tower is a 138 feet (42 m) tall tower built for the 1968 World Trade Fair, by B. S. Abdur Rahman.<br> Its main entrance is from the 3rd Main Road and a back entrance from the 6th main road. <br>It is popular with morning walkers and joggers, and with families and young people in the evenings to play and relax.<br> For a nominal fee, one could walk to the top of the tower from where excellent views of the city could be seen.<br> Entry inside the tower has been stopped for the last few years due to safety concerns as there had been a few cases of suicide in the past.<br> The tower and park are now renovated and has a skating rink.<br> Currently, it boasts of a good turnout of children who come in for practising their skills on roller skates.<br> There is also a group of regulars who practice silambattam – an ancient Tamil martial art form – here.<br> From atop the tower one can have a panoramic views, and the rapidly changing skyline of the city can be appreciated..</p>
+</p>
 
+ 
 </body>
 </html>
 
@@ -97,7 +96,6 @@ koyambedu.html:
     <p>Koyambedu is a neighbourhood in Chennai, India.<br> Situated in the western part of Chennai city, the Koyambedu area has become a major hub of activity in Chennai after the inauguration of the Koyambedu market in 1996</p>
 
     <h2>The Main Attraction:</h2>
-
 
     <p>koyambedu Market:<br>
         Koyambedu Wholesale Market Complex (KWMC) is one of Asia's largest perishable goods market complex located at Koyambedu, Chennai.<br> The market complex is spread over an area of 295 acres (1.19 km2).<br> Inaugurated in 1996, the complex consists of about 3,100 shops,[1] including more than 1,000 wholesale shops and 2,000 retail shops. Of these, 850 are fruit shops.</p>
