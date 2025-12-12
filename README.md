@@ -26,6 +26,8 @@ Execute the programs and publish them.
 
 ## CODE
 
+map.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,7 +57,9 @@ Execute the programs and publish them.
     </center>
 </body>
 </html>
+
 Annanagar.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,7 +77,9 @@ The Anna Nagar Tower is a 138 feet (42 m) tall tower built for the 1968 World Tr
 
 </body>
 </html>
+
 koyambedu.html:
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -89,7 +95,9 @@ koyambedu.html:
         Koyambedu Wholesale Market Complex (KWMC) is one of Asia's largest perishable goods market complex located at Koyambedu, Chennai.<br> The market complex is spread over an area of 295 acres (1.19 km2).<br> Inaugurated in 1996, the complex consists of about 3,100 shops,[1] including more than 1,000 wholesale shops and 2,000 retail shops. Of these, 850 are fruit shops.</p>
 </body>
 </html>
+
 Egmore.html:
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -104,7 +112,9 @@ Egmore.html:
     <p>Cultural & Heritage Sites: Features significant landmarks like the Government Museum (with bronze collections) and the ornate Connemara Public Library.<br>Transport Hub: Home to the Chennai Egmore Railway Station, a major terminus for trains towards southern Tamil Nadu, distinct from Chennai Central.<br>.</p>
 </body>
 </html>
+
 Madhavaram garden.html:
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -119,7 +129,9 @@ Madhavaram garden.html:
     <p>Madhavaram Botanical Garden's main attractions include diverse themed gardens (medicinal, fruit, ornamental, cactus), a glasshouse, a lake with coracle/pedal boat rides, a children's play area, fountains, and an open-air theatre, offering a green escape with plant diversity, recreation, and learning opportunities in Chennai.<br> Visitors enjoy walking paths, photography, picnicking, bird watching, and exploring unique features like a bog garden and planned birthstar garden.<br></p>
 </body>
 </html>
+
 Spectrum mall.html:
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
