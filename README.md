@@ -1,5 +1,7 @@
 # Ex04 Places Around Me
 ## Date: 10\12\2025
+## Name: Litya M
+## Register Number: 25002964
 
 ## AIM
 To develop a website to display details about the places around my house.
