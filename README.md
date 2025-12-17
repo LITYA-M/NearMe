@@ -27,8 +27,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-map.html
 ```
+map.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
